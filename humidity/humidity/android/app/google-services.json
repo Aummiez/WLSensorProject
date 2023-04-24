@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573340731505",
+    "firebase_url": "https://wlsensorproject-default-rtdb.firebaseio.com",
+    "project_id": "wlsensorproject",
+    "storage_bucket": "wlsensorproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573340731505:android:52bf69f9043f47eacfb3d0",
+        "android_client_info": {
+          "package_name": "com.example.humidity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573340731505-8goc0hj1s5bje4fdkpjut1v0b8hqdvo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARNPACQCDqHuW6i4kfl6LdongJZwGchtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573340731505-8goc0hj1s5bje4fdkpjut1v0b8hqdvo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
